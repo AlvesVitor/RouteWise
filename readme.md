@@ -115,8 +115,8 @@ Este sistema foi desenvolvido para automatizar e otimizar o processo de análise
 1. **Clone o repositório**
 
 ```bash
-git clone ******
-cd ********
+git clone https://github.com/AlvesVitor/RouteWise.git
+cd RouteWise
 ```
 
 2. **Crie um ambiente virtual (recomendado)**
