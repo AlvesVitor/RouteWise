@@ -1,7 +1,8 @@
+#### Este repositório reúne o projeto desenvolvido para o curso Agentes Autônomos com IA Generativa, oferecido pelas empresas I2A2, Meta e MetadataH.
+
+---
 
 # 🚛 Sistema de Análise Fiscal com IA e Rotas
-
-#### Este repositório reúne o projeto desenvolvido para o curso Agentes Autônomos com IA Generativa, oferecido pelas empresas I2A2, Meta e MetadataH.
 
 Sistema inteligente para análise automatizada de documentos fiscais (NF-e, CT-e, MDF-e) com cálculo de rotas otimizadas, geocodificação automática e análise detalhada de custos logísticos.
 
